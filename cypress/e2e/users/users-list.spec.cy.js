@@ -19,4 +19,19 @@ describe('GET request to fetch users from api', () => {
             })
         })
     })
+
+    context('Failed results from using an invalid token', () => {
+      it('failed GET request', () => {
+            cy.request({
+                method: 'GET',
+                url: Cypress.env('list_admin_users_url'),
+                headers: { 'Authorization': 'Bearer ' + "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9"}, // providing an invalid token
+                failOnStatusCode: false
+            })
+            .then((response) => {
+            // Check for unauthorized response
+                expect(response.status).to.eq(401)
+            })
+        })
+    })
 })
