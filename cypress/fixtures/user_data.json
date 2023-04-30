@@ -1,0 +1,10 @@
+{
+    "first_name": "John",
+    "last_name": "Doe",
+    "password": "123456",
+    "password_confirmation": "123456",
+    "avatar": "https://example.com/avatar.jpg",
+    "address": "123 Main St, Anytown, USA",
+    "phone_number": "123-456-7890",
+    "marketing": "true"
+}

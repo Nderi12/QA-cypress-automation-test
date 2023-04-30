@@ -1,0 +1,34 @@
+{
+  "success": 1,
+  "data": {
+    "category_uuid": "be6e93b9-46a0-3985-96ee-e733e24fbc7b",
+    "title": "Shout for Pets Odor and Urine Eliminator - Effective Way to Remove Puppy & Dog Odors and Stains from Carpets & Rugs",
+    "uuid": "be45b955-94d3-3174-8319-f340d63d6e33",
+    "price": 45.23,
+    "description": "Ipsam nam aut blanditiis quaerat dolores. Aut odio animi rem enim dolore. Eaque quidem sunt ut aliquid esse deleniti. Veniam consequuntur quia nihil alias beatae. Assumenda accusantium voluptatem et reiciendis sed sapiente. Ipsum est tempora quasi. In nemo iusto voluptates eum voluptatibus quis natus. Sequi non vero dolor.",
+    "metadata": {
+      "brand": "ac053449-adea-378f-88ff-ea8b212917b4",
+      "image": "66b67c14-0243-31a6-b3f9-35dd0a1140b6"
+    },
+    "created_at": "2023-04-30T00:00:31.000000Z",
+    "updated_at": "2023-04-30T00:00:31.000000Z",
+    "deleted_at": null,
+    "category": {
+      "uuid": "be6e93b9-46a0-3985-96ee-e733e24fbc7b",
+      "title": "pet clean-up and odor control",
+      "slug": "pet-clean-up-and-odor-control",
+      "created_at": "2023-04-30T00:00:28.000000Z",
+      "updated_at": "2023-04-30T00:00:28.000000Z"
+    },
+    "brand": {
+      "uuid": "ac053449-adea-378f-88ff-ea8b212917b4",
+      "title": "kitzy",
+      "slug": "kitzy",
+      "created_at": "2023-04-30T00:00:29.000000Z",
+      "updated_at": "2023-04-30T00:00:29.000000Z"
+    }
+  },
+  "error": null,
+  "errors": [],
+  "extra": []
+}
