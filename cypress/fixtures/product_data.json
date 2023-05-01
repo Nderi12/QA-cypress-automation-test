@@ -1,0 +1,34 @@
+{
+	"success": 1,
+	"data": {
+		"category_uuid": "7c2a0515-71d3-3a11-9b64-0b70a80ac8c8",
+		"title": "Shout for Pets Odor and Urine Eliminator - Effective Way to Remove Puppy & Dog Odors and Stains from Carpets & Rugs",
+		"uuid": "e74de6c3-1fe4-3265-89ea-50e3341fcb65",
+		"price": 43.03,
+		"description": "Nam temporibus eum ratione voluptatem aspernatur qui. Suscipit aut odio repellat distinctio molestias quia saepe. Qui tenetur pariatur quas sint. Quia nemo voluptatibus ut quisquam. Veritatis iste dolores quos ut sed numquam molestias. Et accusamus nobis earum sunt sint. Consectetur dolorum labore quo rerum. Qui voluptatem totam quia illo assumenda provident quia. Ea sit eos repudiandae quis consequatur. Esse earum vitae est magnam molestiae ipsa at.",
+		"metadata": {
+			"brand": "57503a42-03a8-30ee-8098-e745a9af2195",
+			"image": "18d62f84-37aa-33d0-820a-e10099f0baee"
+		},
+		"created_at": "2023-05-01T00:00:31.000000Z",
+		"updated_at": "2023-05-01T00:00:31.000000Z",
+		"deleted_at": null,
+		"category": {
+			"uuid": "7c2a0515-71d3-3a11-9b64-0b70a80ac8c8",
+			"title": "pet clean-up and odor control",
+			"slug": "pet-clean-up-and-odor-control",
+			"created_at": "2023-05-01T00:00:28.000000Z",
+			"updated_at": "2023-05-01T00:00:28.000000Z"
+		},
+		"brand": {
+			"uuid": "57503a42-03a8-30ee-8098-e745a9af2195",
+			"title": "iris",
+			"slug": "iris",
+			"created_at": "2023-05-01T00:00:28.000000Z",
+			"updated_at": "2023-05-01T00:00:28.000000Z"
+		}
+	},
+	"error": null,
+	"errors": [],
+	"extra": []
+}

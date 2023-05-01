@@ -1,0 +1,6 @@
+{
+  "type":"cash_on_delivery",
+   "details":{
+      "amount": "1000"
+   }
+}

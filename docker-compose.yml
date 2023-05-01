@@ -1,0 +1,11 @@
+version: '1'
+services:
+  e2e:
+    image: "cypress/included:12.7.0"
+    build: ./cypress
+    container_name: QA-automation
+    command: npm i && npx cypress run --headless
+    volumes:
+      - ./cypress:/cypress
+      - ./cypress.config.js:/cypress.config.js
+      - ./package.json:/package.json
