@@ -17,4 +17,11 @@ Cypress.Commands.add('generateUserToken', () =>{
       return userToken
     }); 
 })
+
+// Command to login admin user (for UI test purposes)
+Cypress.Commands.add('adminUserLoginPage', (email, password) => {
+  cy.get('#input-0').clear().type(email)
+  cy.get('#input-2').clear().type(password)
+  cy.get('.v-btn').click()
+})
   
